@@ -7,4 +7,5 @@
 
 ## A vida das pessoas não acaba quando elas morrem, mas sim quando perdem a fé ‼️🌏🖥️
 
+![Snake animation](https://github.com/VitorSG21/github-contribution-grid-snake.svg)
 
