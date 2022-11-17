@@ -5,7 +5,7 @@
 
 ![VitorSousa GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSousa&show_icons=true&theme=radical)
 
-## A vida das pessoas não acaba quando elas morrem, mas sim quando perdem a fé ‼️🌏🖥️
+### A vida das pessoas não acaba quando elas morrem, mas sim quando perdem a fé ‼️🌏🖥️
 
-![Snake animation](https://github.com/VitorSG21/github-contribution-grid-snake.svg)
 
+<img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
