@@ -1,17 +1,22 @@
-### Olá! Bem Vindo ao Meu PerfiL😁😁
+### Alexandre ⚛️  Javascript Lover
 
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor.sousag21/)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vittor-sousa-205943239/)
+[![Github Badge](https://img.shields.io/youtube/channel/views/UCKrnrV7aWb_yw5KJeXUhj-Q?style=social)](https://www.youtube.com/c/AlexandreEvangelistadeSouza)
+![](https://komarev.com/ghpvc/?username=your-github-username)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devalexandre)](https://github.com/devalexandre)
+[![Github Badge](https://img.shields.io/github/followers/devalexandre?label=Follow&style=flat-square&link=mailto:alexandre@indev.net.br)](mailto:alexandre@indev.net.br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandreindev/)](https://www.linkedin.com/in/alexandreindev/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/__Indev)](https://twitter.com/__Indev)
+[![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=JsLovers&color=purple&logo=medium&&link=https://medium.com/jslovers/)](https://medium.com/jslovers/)
+  
+  # Welcome to my private madness
 
-![VitorSousa GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSousa&show_icons=true&theme=radical)
-### A vida das pessoas não acaba quando elas morrem, mas sim quando perdem a fé ‼️🌏🖥️
+  <img src="https://github.com/devalexandre/devalexandre/blob/master/octocat.png?raw=true" width="200" height="200"> [![Alexandre's github stats](https://github-readme-stats.vercel.app/api?username=devalexandre&show_icons=true&theme=dracula)](https://github.com/devalexandre/github-readme-stats)
+  
+  ![snake gif](https://github.com/VitorSG/VitorSG/blob/output/github-contribution-grid-snake.svg)
 
-[![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]
-[![Microsoft_PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)]
-[![Microsoft_Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)]
+  Passionate about technology, following the evolution and emergence of new languages ​​and new ways of innovating, thus exploring the unknown.
 
-![snake gif](https://github.com/VitorSG/VitorSG/blob/output/github-contribution-grid-snake.svg)
+-  ⚛️ Moleculer Evangelist
+-  ❤️ Javascript Developer
 
-
-[![VitorSG](https://starchart.cc/{VitorSG}/{repo}.svg)]
 
