@@ -24,10 +24,7 @@ Sou técnico em **Análise e Desenvolvimento de Sistemas** e estudante de **Ciê
 ---
 
 ## 📊 GitHub Stats:
-![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorSG21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![Vitor's GitHub Streak](https://streak-stats.demolab.com/?user=VitorSG21&theme=dark&hide_border=false)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSG21&theme=dark&hide_border=false&layout=compact)
 
 <picture align="center">
