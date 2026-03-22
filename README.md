@@ -9,7 +9,7 @@ Sou técnico em **Análise e Desenvolvimento de Sistemas** e estudante de **Ciê
 ---
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/SEU_ID_AQUI) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/ivtrmontrs7171) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/vitor_s.g_?igsh=M21ham01dHF2dWl2) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-sousa-7a9131256/)
 
