@@ -30,19 +30,11 @@ Sou técnico em **Análise e Desenvolvimento de Sistemas** e estudante de **Ciê
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSG21&theme=dark&hide_border=false&layout=compact)
 
----
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorSG21/vitorSG21/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorSG21/vitorSG21/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitorSG21/vitorSG21/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VitorSG21&theme=tokyonight&no-frame=true&margin-w=4)
-
----
 
 ### ✍️ Random Dev Quote:
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
